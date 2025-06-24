@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%" />
+  <img src="https://github.com/DennisDev2911/Mario-Bros/blob/master/asset/logo-movie.png?raw=true" width="20%" />
 </p>
 
 ## 💻 Projeto
