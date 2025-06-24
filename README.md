@@ -33,6 +33,6 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 
 ## 📺 Tutorial no Youtube
 
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
+<a>
  <img src="https://github.com/DennisDev2911/Mario-Bros/blob/master/asset/preview.png?raw=true" width="100%" height="auto" />
 </a>
